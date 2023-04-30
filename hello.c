@@ -4,5 +4,5 @@ int main()
     printf("Hello world");
     printf("EHello");
     printf("New");
-    int b=3;
+    int b=4;
     }
