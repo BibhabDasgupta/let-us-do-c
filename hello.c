@@ -5,4 +5,5 @@ int main()
     printf("EHello");
     printf("New");
     int b=4;
+    printf("%d\n",b);
     }
